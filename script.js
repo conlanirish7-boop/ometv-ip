@@ -1,5 +1,5 @@
 //ADD YOUR API KEY HERE 
-const api_key = "YOUR_API_KEY"
+const api_key = "26f0f67311a0a2"
 
 
 var streamer = false
